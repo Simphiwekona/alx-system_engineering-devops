@@ -1,0 +1,2 @@
+PREV_DIR="$OLDPWD"
+cd "$PREV_DIR"
